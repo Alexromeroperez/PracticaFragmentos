@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:name="com.izv.practicafragmentos.FragmentoLista"
+        android:id="@+id/frLandLista"
+        tools:layout="@layout/fragment_fragmento_lista"
+        android:layout_weight="2" />
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:name="com.izv.practicafragmentos.FragmentoFotos"
+        android:id="@+id/frLandFoto"
+        android:layout_gravity="center_vertical"
+        tools:layout="@layout/fragment_fragmento_fotos"
+        android:layout_weight="1" />
+</LinearLayout>

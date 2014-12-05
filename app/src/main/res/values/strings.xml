@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Inmobiliaria</string>
+    //titulos
+    <string name="principal">Inmobiliaria</string>
+    <string name="galeria">Galeria de Fotos</string>
+    <string name="title_activity_anadir">Añadir Inmueble</string>
+    <string name="titulomodificar">Modifica el Inmueble</string>
+    //botones y demas
+    <string name="localidad">Localidad</string>
+    <string name="localizacion">Localizacion</string>
+    <string name="precio">Precio</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="atras">Anterior</string>
+    <string name="anadir">Añadir</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="modificar">Modificar</string>
+    <string name="borrar">Eliminar</string>
+    //mensajes
+    <string name="añadido">Se ha añadido el inmueble</string>
+    <string name="cancelado">No se ha añadido ningun inmueble</string>
+    <string name="modificado">Se ha modificado el inmueble</string>
+    <string name="nomodificado">No se ha modificado el inmueble</string>
+    <string name="borrado">Se ha borrado el inmueble</string>
+    <string name="noborrado">No se ha borrado el inmueble</string>
+
+</resources>
